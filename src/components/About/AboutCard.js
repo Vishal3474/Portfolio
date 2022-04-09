@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Vishal </span>
             from <span className="purple"> Khatima,Uttarakhand, India.</span>
-            <br />“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” 
+            <br />“I am CodeYogi Student, CodeYogi Offers Me 6 Months Long Software Engineering Program” 
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
