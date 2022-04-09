@@ -39,11 +39,11 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">Html</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Tailwind Css, Node.js , Modern Javascript Library
                 </b>
               </i>
               &nbsp; like
