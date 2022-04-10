@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Unit Converter"
-              description="This is same like as Ask Jud Clone, Do you need to ask a question? Are you looking for answers? Jud offers you a space to ask anything you want. However, before each question you must write a petition. If the answer is not what you expected, at least you make catharsis and ask again."
+              description=" Unit of Conversion is a multi-step process involving multiplication or division by a Measurment Units Conveter, can all be measured in various ways."
               link="https://assignment-26-unit-converter-without-prompt-vishal3474.codeyogiteam.repl.co/"
             />
           </Col>
@@ -36,7 +36,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Ask CodeYogi"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="This is same like as Ask Jud Clone, Do you need to ask a question? Are you looking for answers? Jud offers you a space to ask anything you want."
               link="https://assignment-34-create-ask-jud-clone-vishal3474.codeyogiteam.repl.co/"
             />
           </Col>
@@ -46,7 +46,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Meet Our Team Card"
-              description="Meet our Team "Alone we can do so little; together we can do so much." – Helen Keller"
+              description="Meet our Team ,Alone we can do so little; together we can do so much. – Helen Keller"
               link="https://assignment-29-create-team-list-page-using-react-vishal3474.codeyogiteam.repl.co/"
             />
           </Col>
