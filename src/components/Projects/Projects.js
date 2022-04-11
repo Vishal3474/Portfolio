@@ -76,8 +76,7 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="To-Do List App"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="It's a list of tasks you need to complete or things that you want to do,Most typically, they're organised in order of priority. Traditionally, they're written on a piece of paper or post it notes and act as a memory aid."
               link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
             />
           </Col>
