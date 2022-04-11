@@ -1,8 +1,8 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { TiHtml5 } from "react-icons/ti";
+
 import {
-  DiCode
+
   DiJavascript1,
   DiReact,
   DiNodejs,
