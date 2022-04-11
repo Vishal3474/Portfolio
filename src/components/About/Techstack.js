@@ -8,10 +8,11 @@ import {
   DiNodejs,
 DiNpm,
   DiPython,
-  DiGit,
+  DiGit
+ DiHtml5 ,
 } from "react-icons/di";
 import {
-  SiPytorch,
+ 
   SiFirebase,
   SiNextdotjs,
 } from "react-icons/si";
@@ -47,7 +48,7 @@ function Techstack() {
         <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPytorch />
+        <DiCss3 />
       </Col>
     </Row>
   );
