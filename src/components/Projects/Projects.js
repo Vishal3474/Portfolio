@@ -56,8 +56,8 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="CodeYogi Clone"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              description=""
+              link=""
             />
           </Col>
 
@@ -66,8 +66,8 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Find Table"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              link="https://github.com/soumyajit4419/AI_For_Social_Good"
+              description=""
+              link=""
             />
           </Col>
 
@@ -76,8 +76,8 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="To-Do List App"
-              description="It's a list of tasks you need to complete or things that you want to do,Most typically, they're organised in order of priority. Traditionally, they're written on a piece of paper or post it notes and act as a memory aid."
-              link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              description=""
+              link=""
             />
           </Col>
         </Row>
